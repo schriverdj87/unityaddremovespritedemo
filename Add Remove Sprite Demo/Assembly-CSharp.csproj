@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlacerDemo.cs" />
+    <Compile Include="Assets\Scripts\Starburst.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/UnityEditors/2019.4.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
